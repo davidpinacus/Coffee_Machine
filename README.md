@@ -1,4 +1,4 @@
-# ☕ Coffee Machine (Python - CLI + OOP)
+#  Coffee Machine (Python - CLI + OOP)
 
 A Python-based coffee machine simulation built in two versions.
 
@@ -7,18 +7,18 @@ Order your favorite drinks, insert coins, and enjoy a virtual coffee experience!
 
 ---
 
-## 🎮 Features
+##  Features
 
-* ☕ Order drinks: **Espresso, Latte, Cappuccino**
-* 💰 Coin-based payment system
-* 📊 Resource management (water, milk, coffee)
-* 📈 Profit tracking
-* 🧾 Report system for machine status
-* ❌ Handles insufficient resources & payment
+*  Order drinks: **Espresso, Latte, Cappuccino**
+*  Coin-based payment system
+*  Resource management (water, milk, coffee)
+*  Profit tracking
+*  Report system for machine status
+*  Handles insufficient resources & payment
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="c9azx1"
 .
@@ -39,7 +39,7 @@ Order your favorite drinks, insert coins, and enjoy a virtual coffee experience!
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 
 1. Displays menu with prices
 2. User selects a drink
@@ -51,11 +51,11 @@ Order your favorite drinks, insert coins, and enjoy a virtual coffee experience!
 
    * Deducts resources
    * Returns change
-   * Serves coffee ☕
+   * Serves coffee 
 
 ---
 
-## 💡 Commands
+##  Commands
 
 | Command                             | Action                 |
 | ----------------------------------- | ---------------------- |
